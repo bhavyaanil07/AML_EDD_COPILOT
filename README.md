@@ -1,4 +1,4 @@
-# AML Investigation & Response Copilot
+<img width="1883" height="912" alt="Screenshot 2026-07-18 133848" src="https://github.com/user-attachments/assets/c2c74aa8-5437-464f-8d38-dbbf235bb256" /># AML Investigation & Response Copilot
 ### AI-Powered Compliance Assistant using MCP & NitroStack
 
 > An intelligent AML (Anti-Money Laundering) Investigation Copilot built using **NitroStack**, **Model Context Protocol (MCP)**, and **Agentic AI** to automate customer due diligence, sanctions screening, adverse media analysis, risk assessment, and Enhanced Due Diligence (EDD) report generation.
@@ -260,6 +260,17 @@ HIGH RISK CUSTOMER
 - Multi-language support
 
 ---
+# REACT DASHBOARD
+<img width="1883" height="912" alt="Screenshot 2026-07-18 133848" src="https://github.com/user-attachments/assets/c3fa5f64-5e03-41e6-bab4-527135b1484b" />
+<img width="1882" height="702" alt="Screenshot 2026-07-18 133902" src="https://github.com/user-attachments/assets/899946fd-8574-454c-a761-459fbefc4a88" />
+
+# NITROSTUDIO
+<img width="1241" height="955" alt="Screenshot 2026-07-18 134056" src="https://github.com/user-attachments/assets/bbb929dd-f2b3-4f28-9a15-e859d69d5f02" />
+<img width="1267" height="982" alt="Screenshot 2026-07-18 134124" src="https://github.com/user-attachments/assets/790961ab-72de-4070-bbad-799e49a12d81" />
+
+<img width="1180" height="963" alt="Screenshot 2026-07-18 134132" src="https://github.com/user-attachments/assets/c2c2a8f1-6e80-4adf-96b8-fd661ad885de" />
+
+
 
 # 👨‍💻 Author
 
