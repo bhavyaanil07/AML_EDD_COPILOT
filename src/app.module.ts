@@ -2,6 +2,7 @@ import { McpApp, Module, ConfigModule } from "@nitrostack/core";
 
 import { SystemHealthCheck } from "./health/system.health.js";
 
+import { InvestigationModule } from "./modules/investigation/investigation.module.js";
 import { SanctionsModule } from "./modules/sanctions/sanctions.module.js";
 import { AdverseMediaModule } from "./modules/adverse-media/adverse-media.module.js";
 import { RiskModule } from "./modules/risk/risk.module.js";
@@ -23,6 +24,8 @@ import { EddModule } from "./modules/edd/edd.module.js";
 
   imports: [
     ConfigModule.forRoot(),
+
+    InvestigationModule,
 
     SanctionsModule,
     AdverseMediaModule,
